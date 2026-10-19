@@ -1,0 +1,8 @@
+# Tested-code deployment compatibility target: Python 3.12 on Streamlit Community Cloud.
+# Version pins reduce unexpected resolver changes. Actual Cloud install still must be checked.
+streamlit==1.53.0
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.14.1
+plotly==6.2.0
+yfinance==0.2.65
